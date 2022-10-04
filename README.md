@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KennyNwamana
 - 👀 I’m interested in Business Analystics...
-- 🌱 I’m currently learning Business Analystics
-- 💞️ I’m looking to collaborate on Business and Data analyst
+- 🌱 I’m currently learning R, SQL and Tableau
+- 💞️ I’m looking to collaborate on data analysis projects to build my portfolio
 - 📫 How to reach me kenny.nwamana@gmail.com
 
 <!---
